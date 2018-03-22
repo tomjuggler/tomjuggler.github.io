@@ -1,4 +1,4 @@
-## Welcome to tomjuggler's software showcase
+Welcome to tomjuggler's software showcase
 
 I am a circus performer who uses electronics and programming to enhance my performance. 
 
