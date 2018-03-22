@@ -4,15 +4,18 @@ I am a circus performer who uses electronics and programming to enhance my perfo
 
 
 ```
+#include play
+#include work
+
 boolean isLinux = true;
+boolean isArduino = true;
 
 void setup(){
-	if(isLinux){
-	  doTheJob(); 
-	}
-	else{
-//	  
-	}
+  if(isLinux || isArduino){
+   play(); 
+  } else{
+   work();
+  }
 }
 ```
 
