@@ -4,8 +4,8 @@ I am a circus performer who uses electronics and programming to enhance my perfo
 
 
 ```java
-#include play
-#include work
+import play.*
+import work.*
 
 boolean isLinux = true;
 boolean isArduino = true;
