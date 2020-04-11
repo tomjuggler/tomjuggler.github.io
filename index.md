@@ -1,6 +1,6 @@
 Welcome to tomjuggler's software showcase
 
-I am a circus performer who uses electronics and programming to enhance my performance. 
+I am a circus performer who uses electronics and programming to enhance my performance. Lately I have been documenting my projects at [circussscientist.com](https://circusscientist.com)
 
 
 ```java
@@ -22,6 +22,19 @@ void setup(){
 Here I will showcase all my (open source) Circus Scientist related projects. 
 
 Some of my favorite code examples: 
+
+[Monkey Detector Android App](https://github.com/tomjuggler/Monkey-Detector)
+
+Machine learning Android App to detect the presence of Vervet Monkeys. Check out the full tutorial at: [circusscientist.com](https://www.circusscientist.com/monkey-detecting-sprinkler-overview/)
+
+[parseCoronaVirusSA](https://github.com/tomjuggler/parseCoronavirusSA)
+
+Parsing a reliable source of virus information for my country into a map, using Processing. Full tutorial with a graph and more on the website: [circusscientist.com](https://www.circusscientist.com/parsing-online-corona-virus-data-into-a-map-with-processing/)
+
+[SmartPoi Android App](https://github.com/tomjuggler/SmartPoi-Android-App) and [SmartPoi ESP8266 firmware](https://github.com/tomjuggler/SmartPoi-Firmware) 
+
+My 6 year long project to create the worlds first WiFi Streaming Graphic Poi. Used in many shows, I even sold a pair. This is the project where I learned the most. A bit of a mess but it works! Check out the write up here: [circusscientist.com](https://www.circusscientist.com/smart-poi-overview/)
+
 
 [Arduino EEProm](https://github.com/tomjuggler/EepromOnOffLedExample)
 
