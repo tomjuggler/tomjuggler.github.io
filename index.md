@@ -2,6 +2,9 @@ Welcome to tomjuggler's software showcase
 
 I am a circus performer who uses electronics and programming to enhance my performance. Lately I have been documenting my projects at [circussscientist.com](https://circusscientist.com)
 
+CV: [circussscientist.com/cv](https://circusscientist.com/cv)
+
+Portfolio site: [portfolio.devsoft.co.za](https://portfolio.devsoft.co.za)
 
 ```java
 import play.*
@@ -19,9 +22,11 @@ void setup(){
 }
 ```
 
-Here I will showcase all my (open source) Circus Scientist related projects. 
+Some of my favorite past projects: 
 
-Some of my favorite code examples: 
+[LED Website Indicator](https://ledindicator.devsoft.co.za):
+
+An LED flashes when anyone visits one of your websites. Sign up for free and use the D1 mini to check one site or buy the full RGB version for up to 7 sites. WordPress plug-in, and Python library available for easy integration with your own site back-end. 
 
 [Monkey Detector Android App](https://github.com/tomjuggler/Monkey-Detector):
 
@@ -34,6 +39,8 @@ Parsing a reliable source of virus information for my country into a map, using 
 [SmartPoi Android App](https://github.com/tomjuggler/SmartPoi-Android-App) and [SmartPoi ESP8266 Firmware](https://github.com/tomjuggler/SmartPoi-Firmware):
 
 My 6 year long project to create the worlds first WiFi Streaming Graphic Poi. Used in many shows, I even sold a pair. This is the project where I learned the most. A bit of a mess but it works! Check out the write up here: [https://www.circusscientist.com/smart-poi-overview/](https://www.circusscientist.com/smart-poi-overview/)
+
+This project is busy being updated to a web based version, "Magic Poi" which currently lives here: [http://magicpoi.circusscientist.com](http://magicpoi.circusscientist.com)
 
 
 [Arduino EEProm](https://github.com/tomjuggler/EepromOnOffLedExample):
